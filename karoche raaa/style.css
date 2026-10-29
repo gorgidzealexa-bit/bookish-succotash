@@ -1,0 +1,75 @@
+body{
+    background-color: hsl(180, 52%, 96%);
+    justify-items: center;
+}
+.new{
+    border: none;
+    background-color: hsl(180, 29%, 50%);
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    
+}
+.feat{
+    border: none;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+}
+.green{
+    color: hsl(180, 29%, 50%);
+    font-weight: bold;
+}
+.snap{
+    display: flex;
+    gap: 10px;
+    height: 20px;
+   
+}
+.button{
+    display: flex;
+    gap: 5px;
+    padding-top: 15px;
+    height: 20px;
+    padding-left: 20px;
+}
+.senior{
+    font-size: 20px;
+    font-weight: bold;
+}
+.nacr{
+    font-size: 13px;
+
+}
+.gaps{
+    display: flex;
+    gap: 20px;
+    color:  hsl(180, 8%, 52%);
+}
+.dedadivi{
+    display: flex;
+    gap: 30px;
+    width: 900px;
+    background-color: white;
+}
+.pirveli img{
+    width: 70px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.abra{
+    border: none;
+    background-color: lightcyan;
+    color:  hsl(180, 14%, 20%);
+    font-weight: bold; 
+    height: 30px;
+    width: 70px;
+    border-radius: 2px;
+    
+}
+.bevri{
+    padding-top: 60px;
+    padding-left: 100px;
+    
+}
